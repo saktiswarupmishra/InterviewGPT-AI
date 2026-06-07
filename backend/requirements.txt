@@ -1,0 +1,43 @@
+# FastAPI & Server
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+python-multipart>=0.0.9
+
+# Database
+motor>=3.5.0
+pymongo>=4.8.0
+
+# Cache
+redis>=5.0.0
+
+# Authentication
+python-jose[cryptography]>=3.3.0
+passlib[bcrypt]>=1.7.4
+bcrypt>=4.1.3
+
+# AI & LLM
+google-genai>=1.0.0
+langchain>=0.3.0
+langchain-google-genai>=2.0.0
+langgraph>=0.2.0
+chromadb>=0.5.0
+
+# Document Processing
+pymupdf>=1.24.0
+python-docx>=1.1.0
+
+# Data Validation
+pydantic>=2.8.0
+pydantic-settings>=2.4.0
+
+# Environment
+python-dotenv>=1.0.1
+
+# CORS & Utils
+email-validator>=2.1.1
+httpx>=0.27.0
+
+# Emotion Analysis (Phase 5)
+# opencv-python==4.10.0
+# mediapipe==0.10.14
+# deepface==0.0.93

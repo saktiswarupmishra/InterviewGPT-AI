@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+.pytest_cache/
+htmlcov/
+
+# Build
+*.js.map
+*.css.map
+
+# Database
+data/
+*.db
+
+# Uploads
+uploads/
+
+# Docker
+docker-compose.override.yml
