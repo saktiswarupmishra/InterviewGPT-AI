@@ -2,6 +2,10 @@
 
 > AI-powered virtual interview simulator — the world's most realistic interview preparation platform.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,react,vite,tailwind,fastapi,mongodb,redis,docker" alt="InterviewGPT AI Tech Stack" />
+</p>
+
 ## ✨ Features
 
 - **8 Interview Modes** — Technical, Behavioral, HR, Coding, System Design, Campus Placement, FAANG Simulation, Custom Company
