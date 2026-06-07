@@ -2,10 +2,6 @@
 
 > AI-powered virtual interview simulator — the world's most realistic interview preparation platform.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,react,vite,tailwind,fastapi,mongodb,redis,docker" alt="InterviewGPT AI Tech Stack" />
-</p>
-
 ## ✨ Features
 
 - **8 Interview Modes** — Technical, Behavioral, HR, Coding, System Design, Campus Placement, FAANG Simulation, Custom Company
@@ -19,16 +15,21 @@
 
 ## 🛠️ Tech Stack
 
-| Layer | Technology |
-|-------|-----------|
-| Frontend | React 19, TypeScript, Vite, Tailwind CSS v4, ShadCN UI |
-| Backend | FastAPI, Python 3.11+ |
-| Database | MongoDB 7.0 |
-| Cache | Redis 7.0 |
-| AI/LLM | Google Gemini 2.5 Pro |
-| Agents | LangChain, LangGraph |
-| Vector DB | ChromaDB |
-| DevOps | Docker, Docker Compose |
+### 🎨 Frontend
+
+![React 19](https://img.shields.io/badge/REACT_19-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/VITE-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Shadcn UI](https://img.shields.io/badge/SHADCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+### ⚙️ Backend
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![MongoDB](https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/REDIS-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🤖 AI Service
+
+![Google Gemini](https://img.shields.io/badge/GOOGLE_GEMINI-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white) ![LangChain](https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LANGGRAPH-000000?style=for-the-badge&logo=langchain&logoColor=white) ![ChromaDB](https://img.shields.io/badge/CHROMADB-000000?style=for-the-badge)
+
+### 🐳 DevOps
+
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/DOCKER_COMPOSE-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 Quick Start
 
